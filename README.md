@@ -1,6 +1,5 @@
 # PLATO: High dimensional, tabular deep learning with an auxiliary knowledge graph
 
-## Overview
 <p align="center">
 <img src="img/plato_github_figure.png" width="1100" align="center">
 </p>
@@ -9,8 +8,8 @@
 
 For more information about PLATO, please refer to our [paper](link), [5-minute video](link), [slides](link), or [poster](link)!
 
-## Code, Data, and the Graph
-We are preparing the final version of the code, data, and graph to release publicly. If you'd like to be notified when the final version is released, you can watch or star the repo.
+## Under Construction
+We are preparing the final version of the code, data, and graph to release at this repo! If you'd like to be notified when the final version is released, you can watch or star the repo.
 
 ## Contact
 Please contact Camilo Ruiz (caruiz@cs.stanford.edu) and Hongyu Ren (hyren@cs.stanford.edu) with any questions.
